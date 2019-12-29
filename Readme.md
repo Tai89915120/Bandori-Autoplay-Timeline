@@ -1,4 +1,4 @@
-## BangDream Girs Band Part Auto Play
+## BanG Dream! Girls Band Party Auto Play
 バンドリ! ガールズバンドパーティ!を自動でプレイするための、時刻と処理の系列です。
 
 ## List
